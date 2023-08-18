@@ -60,7 +60,7 @@ function somaCem(){
         const soma=valor1+valor2+valor3
         resultado.textContent=soma
     }else{
-        resultado.textContent=''
+        alert("RESULTADO ABAIXO DE 100!")
     }
 }
 
